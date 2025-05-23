@@ -1,6 +1,7 @@
 # codecamp-survey-form
 Codecamp Certification Project (Survey Form)
-This link below is the certification project example.
+This link in the below is the certification project example.
+
 https://survey-form.freecodecamp.rocks/
 
 The screenshot of my project.
